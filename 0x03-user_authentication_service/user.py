@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 '''Model for database user'''
-from sqlalchemy import Column, String, Integer
+from sqlalchemy import Column, Integer, String
 from sqlalchemy.ext.declarative import declarative_base
 
 
